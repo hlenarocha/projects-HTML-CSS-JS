@@ -10,7 +10,7 @@
   width: 35px;
   height: 35px;
   margin-right: 10px;
-  margin-left: 210px;
+  margin-left: 140px;
   margin-top: 10px;
   display: flex;
 
@@ -20,7 +20,7 @@
   display: flex;
   align-items: center;
   margin-top: -31px;
-  margin-left: 255px;
+  margin-left: 186px;
   border-left: 1px solid #dbdbdb;
   padding-left: 13px;
 }
@@ -52,10 +52,10 @@
 
 
 .stories {
-  max-width: 614px;
+  max-width: 680px;
   height: 118px;
-  margin-top: 88px;
-  margin-left: 215px;
+  margin-top: 35px;
+  margin-left: 140px;
   border-radius: 3px;
   border: 1px solid #dbdbdb;
   margin-bottom: 500px;
@@ -88,19 +88,19 @@
 
 .post {
   height: fit-content;
-  width: 614px;
+  width: 680px;
   border: 1px solid #dbdbdb;
-  margin-top: -412px;
-  margin-left: 215px;
+  margin-top: -475px;
+  margin-left: 140px;
 
 }
 
 .post-img {
   width: 100%;
-  padding-top: 40px;
+  padding-top: 15px;
 }
 
-.user {
+.userp {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: #262626;
   
@@ -137,11 +137,10 @@
 }
 
 .sidebar {
-  border: 1px solid black;
   height: 100%;
   width: 500px;
   margin-top: -620px;
-  margin-left: 845px;
+  margin-left: 880px;
   display: flex;
   flex-wrap: nowrap;
   position: absolute;
@@ -180,4 +179,16 @@
   margin-top: 10px;
 }
 
+.perfil {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
 
+.myname {
+  width: 70px;
+  height: fit-content;
+  margin-left: 110px;
+  margin-top: -50px;
+}
